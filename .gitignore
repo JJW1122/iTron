@@ -1,0 +1,10 @@
+build/
+install/
+log/
+
+*.o
+*.obj
+*.so
+*.dylib
+*.a
+*.all
